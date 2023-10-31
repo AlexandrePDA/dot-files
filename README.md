@@ -58,6 +58,31 @@
 - ressources => https://github.com/rockerBOO/awesome-neovim
 
 
+# ⚡️ YABAI CONFIGURATION 
+
+1. Install Yabai
+   ```bash
+   brew install koekeishiya/formulae/yabai
+
+2. Install Skhd
+   ```bash
+   brew install koekeishiya/formulae/skhd
+
+3. Config Yabai
+   Move to `~`
+   ```bash
+   mkdir .config/yabai
+   cd .config/yabai
+   touch yabairc
+- Follow the files below to use yabai 🚀
+
+4. Config Skhd
+   Move to `~`
+   ```bash
+   mkdir .config/skhd
+   cd .config/skhd
+   touch skhdrc
+- Follow the files below to use skhd 🚀
 
 
 **Enjoy it! 🌈**
