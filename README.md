@@ -69,7 +69,7 @@
    brew install koekeishiya/formulae/skhd
 
 3. Config Yabai
-   Move to `~`
+- Move to `~`
    ```bash
    mkdir .config/yabai
    cd .config/yabai
@@ -77,7 +77,7 @@
 - Follow the files below to use yabai 🚀
 
 4. Config Skhd
-   Move to `~`
+- Move to `~`
    ```bash
    mkdir .config/skhd
    cd .config/skhd
