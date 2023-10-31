@@ -58,7 +58,7 @@
 - ressources => https://github.com/rockerBOO/awesome-neovim
 
 
-# ⚡️ YABAI CONFIGURATION 
+# ⚡️ YABAI & SKHD CONFIGURATION 
 
 1. Install Yabai
    ```bash
