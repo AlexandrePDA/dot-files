@@ -55,5 +55,9 @@
 - If the word is underlined, switch to normal mode, hover over the word, and press `space` + `d` 
 - For delete a block => `v` + `G` + `d`
 - `ctrl` + `h` => Go to the tree menu
+- ressources => https://github.com/rockerBOO/awesome-neovim
+
+
+
 
 **Enjoy it! 🌈**
